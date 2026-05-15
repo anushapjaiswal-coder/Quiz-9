@@ -19,21 +19,24 @@ The marble textures draw from the centuries-old art of **Ebru (Turkish paper mar
 
 The recurring archangel statue in Victor Frankenstein's nightmares, a double-winged figure that appears engulfed in flame, eventually revealing a skeletal face beneath its serene mask. Concept art by Guy Davis and Guillermo del Toro. This drives the central figure of my piece: a winged silhouette caught between divinity and destruction.
 
-> *Insert high-quality screenshot/image of the Dark Angel from Frankenstein here*
+![Dark Angel statue from Guillermo del Toro's Frankenstein](dark-angel-sculpted-by-ruben-orozco-loza-at-gdt-v0-pceo2uv3t1cg1.webp)
 
 **2. Ebru / Turkish Paper Marbling**
 
 The ancient technique of floating pigment on water and combing it into fluid, organic patterns. These swirling veins of colour inform my generative marble background, I aim to recreate this effect computationally using Perlin noise and layered colour fields.
 
-> *Insert high-quality image of Ebru / marble painting art here*
+![Ebru Turkish paper marbling](2015_10_01-01-ArticleOpener.webp)
 
 **3. Hellenistic Greek Sculpture, *Winged Victory of Samothrace***
 
 The dramatic forward motion, flowing stone drapery, and emotional intensity of Hellenistic sculpture (c. 190 BC, Louvre). This informs the pose and silhouette of the angel figure, monumental, mid-gesture, caught in wind.
 
-> *Insert high-quality image of the Winged Victory of Samothrace here*
+![Winged Victory of Samothrace](image-17.webp)
+**4. *Angel of Death* by Evelyn De Morgan (1881)**
 
+A Pre-Raphaelite oil painting depicting the Angel of Death embracing a mortal figure, draped in flowing robes with massive wings. This painting reinforces the emotional tone of the project, the intimacy between mortality and divinity, and informs the mood and colour palette of the piece.
 
+![Angel of Death by Evelyn De Morgan](SRY_EMF_P_EDM_0021-001.jpg)
 ## Part 2: Mechanics
 
 > **Team allocation:** To be confirmed once a group is assigned. Below, I've outlined all four mechanics as they relate to the project vision. Each will be owned by a different team member.
